@@ -5,7 +5,7 @@
 
 📖 I am currently studying for a Computer Science Bachelor Degree ( 3rd / 4 years )  
 
-💻 Technology is my biggest passion since childhood.  
+💻 Technology is my biggest passion.
 
 🖥️ I like to explore and learn about new technologies and accomplishments.  
 
@@ -15,7 +15,7 @@
 
 ✍️ You can always reach me on my social media or e-mail.  
 
-📫 My e-mail is: <i>marko.koprivanac.19@singimail.rs</i>.  
+📫 My e-mail is: <i>unitedbalkangamers@gmail.com</i>.  
 
 
 # Technologies I currently work with
