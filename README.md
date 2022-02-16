@@ -1,9 +1,9 @@
 # Hi :wave:, my name is Marko.  
 <b>I am a Student, Developer, Learner!</b>  
 
-💼 Currently working as a freelancer on Fiverr.  
+💼 Currently working as a freelancer.
 
-📖 I am currently studying for a Computer Science Bachelor Degree ( 3rd / 4 years )  
+📖 Studying for a Computer Science Bachelor Degree ( 3rd / 4 years )  
 
 💻 Technology is my biggest passion.
 
