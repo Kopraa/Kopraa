@@ -15,7 +15,7 @@
 
 ✍️ You can always reach me on my social media or e-mail.  
 
-📫 My e-mail is: <i>unitedbalkangamers@gmail.com</i>.  
+📫 My e-mail is: <i>unitedbalkangamers@gmail.com</i>
 
 
 # Technologies I currently work with
@@ -31,8 +31,8 @@
 
 # Contact me  
 <p align="left">
-  <a href="https://www.instagram.com/marko.kopra/"><img src="https://image.flaticon.com/icons/png/512/1051/1051364.png" width="32" height="32" title="Click me" alt="My instagram!"></a>  
-  <a href="https://linkedin.com/in/marko-koprivanac"><img src="https://image.flaticon.com/icons/png/512/1051/1051384.png" width="32" height="32" title="Or click me" alt="My LinkedIn"></a>  
-  <a href="https://www.fiverr.com/kopraa"><img src="https://image.flaticon.com/icons/png/512/732/732047.png" width="32" height="32" title="Maybe me?" alt="My LinkedIn"></a>  
+  <a href="https://www.instagram.com/marko.kopra/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="32" height="32" title="Click me" alt="My instagram!"></a>  
+  <a href="https://linkedin.com/in/marko-koprivanac"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="32" height="32" title="Or click me" alt="My LinkedIn"></a>  
+  <a href="https://www.fiverr.com/kopraa"><img src="https://cdn-icons-png.flaticon.com/512/732/732047.png" width="32" height="32" title="Freelance" alt="My LinkedIn"></a>  
 </p>
 
