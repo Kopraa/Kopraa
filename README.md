@@ -10,7 +10,7 @@
 <br>
 <br>
 
-I'm in my last semester of Information Technology studies.
+I am IT Engineer currently engaged in freelance and independent contract assignments.
 
 ## Interests
 - 🌐 Full stack development
