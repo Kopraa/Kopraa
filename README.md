@@ -25,11 +25,14 @@ I am IT Engineer currently engaged in freelance and independent contract assignm
 ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen?style=flat&logo=node.js&labelColor=444)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&labelColor=444)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&labelColor=444)
+![PHP](https://img.shields.io/badge/-PHP-9cf?style=flat&logo=php&labelColor=444)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&labelColor=444)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&labelColor=444)
 ![Vue](https://img.shields.io/badge/-Vue-9cf?style=flat&logo=vuedotjs&labelColor=444)
+![React](https://img.shields.io/badge/-React-9cf?style=flat&logo=react&labelColor=444)
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=mysql&labelColor=444)
 ![git](https://img.shields.io/badge/-Git-orange?style=flat&logo=github&labelColor=444)
+
 
 *Learning/Wanting to learn*
 
