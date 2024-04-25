@@ -10,7 +10,8 @@
 <br>
 <br>
 
-I am IT Engineer currently engaged in freelance and independent contract assignments.
+I’m a self-taught software developer and college-educated IT engineer with extensive experience in freelance and independent contract work. 
+My current focus areas encompass full-stack web development, indie game development and game modding.
 
 ## Interests
 - 🌐 Full stack development
